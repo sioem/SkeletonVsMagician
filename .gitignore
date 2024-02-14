@@ -70,3 +70,47 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+SkeletonVsMagician/Assets/Animation/
+SkeletonVsMagician/Assets/Animation.meta
+SkeletonVsMagician/Assets/Audio/
+SkeletonVsMagician/Assets/Audio.meta
+SkeletonVsMagician/Assets/Avatar/
+SkeletonVsMagician/Assets/Avatar.meta
+SkeletonVsMagician/Assets/Epic Toon FX/
+SkeletonVsMagician/Assets/Epic Toon FX.meta
+SkeletonVsMagician/Assets/Fonts/
+SkeletonVsMagician/Assets/Fonts.meta
+SkeletonVsMagician/Assets/GUI Kit - Matt Metal/
+SkeletonVsMagician/Assets/GUI Kit - Matt Metal.meta
+SkeletonVsMagician/Assets/Models/
+SkeletonVsMagician/Assets/Models.meta
+SkeletonVsMagician/Assets/Oculus/
+SkeletonVsMagician/Assets/Oculus.meta
+SkeletonVsMagician/Assets/Photon/
+SkeletonVsMagician/Assets/Photon.meta
+SkeletonVsMagician/Assets/Plugins/
+SkeletonVsMagician/Assets/Plugins.meta
+SkeletonVsMagician/Assets/PolygonDungeon/
+SkeletonVsMagician/Assets/PolygonDungeon.meta
+SkeletonVsMagician/Assets/Prefabs/
+SkeletonVsMagician/Assets/Prefabs.meta
+SkeletonVsMagician/Assets/Resources/
+SkeletonVsMagician/Assets/Resources.meta
+SkeletonVsMagician/Assets/Scenes/
+SkeletonVsMagician/Assets/Scenes.meta
+SkeletonVsMagician/Assets/Shader/
+SkeletonVsMagician/Assets/Shader.meta
+SkeletonVsMagician/Assets/TextMesh Pro/
+SkeletonVsMagician/Assets/TextMesh Pro.meta
+SkeletonVsMagician/Assets/Textures/
+SkeletonVsMagician/Assets/Textures.meta
+SkeletonVsMagician/Assets/WizardPolyArt/
+SkeletonVsMagician/Assets/WizardPolyArt.meta
+SkeletonVsMagician/Assets/XR/
+SkeletonVsMagician/Assets/XR.meta
+SkeletonVsMagician/Library/
+SkeletonVsMagician/Logs/
+SkeletonVsMagician/.vsconfig
+SkeletonVsMagician/Temp/
+SkeletonVsMagician/UserSettings/
+SkeletonVsMagician/obj/
