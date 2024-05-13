@@ -1,4 +1,4 @@
-![image](https://github.com/sioem/SkeletonVsMagician/assets/92648650/0c9f1270-1319-430e-9abb-856654e4d353)# SkeletonVsMagician
+# SkeletonVsMagician
 VR 플레이어 1명과 PC 플레이어 4명이 서로 대결하는 크로스 플랫폼 액션 멀티 게임입니다.
 
 ## 목차
