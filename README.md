@@ -1,4 +1,4 @@
-# SkeletonVsMagician
+![image](https://github.com/sioem/SkeletonVsMagician/assets/92648650/0c9f1270-1319-430e-9abb-856654e4d353)# SkeletonVsMagician
 VR 플레이어 1명과 PC 플레이어 4명이 서로 대결하는 크로스 플랫폼 액션 멀티 게임입니다.
 
 ## 목차
@@ -8,13 +8,38 @@ VR 플레이어 1명과 PC 플레이어 4명이 서로 대결하는 크로스 �
 
 ## 개요
 - 프로젝트 이름: SkeletonVsMagician
-- 개발 인원: 3명 (윤석준, 이지성, 이찬영)
+- 개발 인원: 3명 (윤석준, 이지성, 이찬영) 
 - 개발 기간: 79일 (2023/11/1 ~ 2024/1/19)
 - 개발 엔진 및 언어: Unity & C#
 - 플랫폼: Oculus, PC
 - 협업 툴: TortoiseSVN, Trello
 - 네트워크: Photon PUN2
+- 담당 파트
+  
+윤석준: 
+ 
+- VR 플레이어 UI 인터렉션 및 UI 구현
+- VR 네트워크 연동 구조 설계 및 구현
+- PC 멀티플레이 구축
 
+<br/>
+
+이지성:
+
+- VR 플레이어 잡기, 던지기 인터렉션 구현
+- VR 멀티플레이 구축
+- 데미지 연출
+- VR 네트워크 연동 구조 설계 및 구현
+
+<br/>
+
+이찬영:
+
+- PC 플레이어 기능 구현
+- 맵 구축
+- PC 플레이어 애니메이션 제작
+- VR 플레이어 Haptic Feedback 구현
+  
 ## 게임 설명
 ### 조작
 #### VR 플레이어
